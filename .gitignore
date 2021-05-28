@@ -112,3 +112,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# directories
+/Docs
+/NosePoke_RawDataandCode
+/VBA
+/VBA_Figures
+/VBA_Processed
+/VBA_RawDataandCode
+
+# Mac Icon
